@@ -1,0 +1,25 @@
+- Connect to all servers, make sure all deployed instances have backed up their data last night, and make sure the upload to cloud was successful
+- Create a blog post for:
+    - holism.solutions
+    - hotelos.ir
+    - holism.ir
+    - semory.ir
+    - phis.ir
+        - Connect to the production database and review existing posts to choose a distinct topic.
+        - Follow the prompt assembly logic in /home/dev/prompts/api/business/prompt/provide.js: load prompt content from the database and concatenate the applicable prompts.
+        - Use the application and blog_post scopes to generate the post and its text.
+        - Use the application and media_image scopes to generate an image for the post.
+        - Choose a category and relevant tags, then create the complete post.
+        - Make sure the category or the tag has an image, or an SVG icon.
+- Create a glossary entry for holism.solutions:
+    - Connect to the production database and review existing entries to choose a distinct term.
+    - Follow the prompt assembly logic in /home/dev/prompts/api/business/prompt/provide.js: load prompt content from the database and concatenate the applicable prompts.
+    - Use the application and glossary_entry scopes to generate the entry and its content.
+    - Use the application and media_image scopes to generate an image for the entry.
+    - Create the complete glossary entry.
+- Create a Q&A for holism.solutions in the questions part:
+    - Connect to the production database and review existing questions and answers to choose a distinct, relevant topic.
+    - Follow the prompt assembly logic in /home/dev/prompts/api/business/prompt/provide.js: load prompt content from the database and concatenate the applicable prompts.
+    - Use the application and questions_question scopes to write a plausible question in the natural words of a real person, without claiming that someone actually submitted it.
+    - Use the application and questions_answer scopes to write an accurate, formal, friendly answer.
+    - Create the question and its answer, then categorize and tag the Q&A using the supported platform relationships.
