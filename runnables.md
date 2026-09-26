@@ -16,7 +16,6 @@
 
 - taskOsControl
 - taskOs
-- taskOsThemes
 
 - realtyControl
 - realty
@@ -28,7 +27,6 @@
 
 - phoneAiControl
 - phoneAi
-- phoneAiThemes
 
 
 ## Domains
