@@ -10,9 +10,9 @@
 - holism
 - holismThemes
 
-- menovaControl
-- menova
-- menovaThemes
+- menivoControl
+- menivo
+- menivoThemes
 
 - taskOsControl
 - taskOs
