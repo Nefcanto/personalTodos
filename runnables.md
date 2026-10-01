@@ -6,3 +6,15 @@
 - realty
 - edora
 - phoneAi
+- clinicOs
+- retailOs
+- salonOs
+- gymOs
+- autoOs
+- legalOs
+- accountingOs
+- travelOs
+- warehouseOs
+- constructionOs
+- freightOs
+- serviceOs
