@@ -1,11 +1,11 @@
 - jzp
-- hotelOs
 - holism
-- menivo
 - taskOs
-- realty
-- edora
 - phoneAi
+- hotelOs
+- restaurantOs
+- realEstateOs
+- schoolOs
 - clinicOs
 - retailOs
 - salonOs
